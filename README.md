@@ -18,4 +18,4 @@ The score increases based on survival time. Colliding with an obstacle ends the 
 ## ▶️ Play the Game!
 
 You can play the game in your browser on its itch.io page:
-****
+**https://shanmukha.itch.io/city-sprint**
